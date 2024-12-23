@@ -3,6 +3,16 @@
 ## Overview
 The LibraryBook Management System is a comprehensive library database project designed to manage books, students, loans, and fines. It supports essential functionalities such as book borrowing, tracking overdue loans, calculating fines, and generating reports.
 
+
+---
+## Screenshots
+
+### 1. Books Management
+![Books Management](assets/screenshots/book-management.png)
+
+### 2. Students Management
+![Students Management](assets/screenshots/student-management.png)
+
 ---
 
 ## Features
