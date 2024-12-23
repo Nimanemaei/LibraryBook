@@ -8,10 +8,10 @@ The LibraryBook Management System is a comprehensive library database project de
 ## Screenshots
 
 ### 1. Books Management
-![Books Management](assets\screenshots\book-management.png)
+![Books Management](assets/screenshots/book-management.png)
 
 ### 2. Students Management
-![Students Management](assets\screenshots\student-management.png)
+![Students Management](assets/screenshots/student-management.png)
 
 ---
 
